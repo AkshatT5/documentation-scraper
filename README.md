@@ -78,18 +78,6 @@ The JSON output offers a structured data format, ideal for further processing or
 - Markdown content
 - CSS styles
 
-## Deployment
-
-This app is deployed on Streamlit Cloud. You can access it from [here](https://documentation-scraper-jac9rhbkvqwzgmdg8gsctu.streamlit.app/).
-
-To deploy your own instance:
-
-1. Fork this repository to your GitHub account.
-2. Go to [Streamlit Cloud](https://streamlit.io/cloud).
-3. Click on "New app" and select your forked repository.
-4. Select the main branch and enter: `app.py` as the main file path.
-5. Click "Deploy".
-
 ## Contributing
 
 Contributions to the Comprehensive Documentation Scraper are welcome! Here's how you can contribute:
