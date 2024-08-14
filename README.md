@@ -1,5 +1,3 @@
-Here's the corrected README.md code formatted for GitHub:
-
 # Comprehensive Documentation Scraper
 
 ## Description
