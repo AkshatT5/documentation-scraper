@@ -80,7 +80,7 @@ The JSON output offers a structured data format, ideal for further processing or
 
 ## Deployment
 
-This app is deployed on Streamlit Cloud. You can access it from [here](https://documentation-scraper-jac9rhbkvqwzgmdg8gsctu.streamlit.app).
+This app is deployed on Streamlit Cloud. You can access it from [here](https://documentation-scraper-jac9rhbkvqwzgmdg8gsctu.streamlit.app/).
 
 To deploy your own instance:
 
